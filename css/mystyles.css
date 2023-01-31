@@ -1,0 +1,12 @@
+.container{
+  padding: 0 2rem;
+  margin: 0 auto;
+  max-width: 1024px;
+}
+img{
+  width:100%;
+}
+.pic{
+  max-width: 320px;
+  border-radius: 50%;
+}
